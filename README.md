@@ -1,13 +1,14 @@
 # portal-solutions-sky
 
 ## Description
-Project portal-solutions-sky
+"Feature testing" crate (`portal-solutions-sky`), using crypto primitives (`slh-dsa`, `sha3`).
 
 ## Goals
-- [ ] Add project goals
+- [ ] Test system features
+- [ ] Verify crypto implementation
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
